@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/mypictures">
+        <file>myResources.qrc</file>
+        <file>bookcase.png</file>
+    </qresource>
+</RCC>
